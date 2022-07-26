@@ -1,0 +1,2 @@
+This is file 4
+Related to feature 4
